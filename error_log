@@ -1,0 +1,6 @@
+[13-Apr-2019 11:06:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esuy1842/public_html/koneksi.php on line 3
+[13-Apr-2019 11:15:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esuy1842/public_html/koneksi.php on line 3
+[13-Apr-2019 11:16:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esuy1842/public_html/koneksi.php on line 3
+[13-Apr-2019 11:22:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/esuy1842/public_html/koneksi.php on line 3
+[13-Apr-2019 11:22:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/esuy1842/public_html/koneksi.php on line 3
+[28-Apr-2019 08:22:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/esuy1842/public_html/vl_user.php on line 15
